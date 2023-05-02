@@ -1,4 +1,9 @@
-# CS32FinalProject
+
+# This is the code for the snake game. To run this program, you will need to run this on a local system to access the screen.
+# To run use python3 [pathme of snake file]
+# We hope you enjoy this project!
+
+
 #Import Necessary Items
 import pygame
 import sys
